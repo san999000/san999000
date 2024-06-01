@@ -1,7 +1,7 @@
 - 👋 Hi, I’m San
 - 👀 I’m interested in Photography and Coding
 - 🌱 I’m currently learning Computer science 
-- 💞️ 
+- 💞️ :)
 - 📫 How to reach me instagram santheshutterbug 
 
 <!---
